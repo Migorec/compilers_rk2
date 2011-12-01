@@ -6,3 +6,5 @@ output.xml
 lex.hs
 
 parse.hs
+
+out
