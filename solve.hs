@@ -3,7 +3,7 @@
 import IO
 import Parse
 import Data.List
-import Text.Show.Pretty
+
 
 
 main = do str <- readFile "input.txt"
